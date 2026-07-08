@@ -1,0 +1,12 @@
+body {margin: 0 10%}
+html {color: black; font-Family: comic sans MS}
+h1 {font-size: 3.5em;margin:0.2em 0}
+p {font-family: Calibri; font-size: 6em;}
+body {text-align:center;}
+ul{text-align: left; color: red;}
+#universe{background-color: chartreuse;}
+button{background-color: dodgerblue;}
+#button{background-color: white; border-color: white; border-radius: 150em;}
+#broken{background-color: red;}
+#button:active {transform: scale(0.9)}
+#button {transition: transform 0.2s  ;}
